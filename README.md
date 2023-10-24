@@ -7,19 +7,18 @@
 
 - 📫 How to reach me **iamhimanshushekhar13@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qCZu_9o-NzgJuepEZ_07gTEt9C_SHxoO/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qCZu_9o-NzgJuepEZ_07gTEt9C_SHxoO/view?usp=share_link](https://drive.google.com/file/d/1qCZu_9o-NzgJuepEZ_07gTEt9C_SHxoO/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himsheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himsheda" height="30" width="40" /></a>
 <a href="https://kaggle.com/himanshushekhardas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshushekhardas" height="30" width="40" /></a>
 <a href="https://instagram.com/himanshu.hsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.hsd" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/himsheda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himsheda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himsheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himsheda" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/__friday__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__friday__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shekhar467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shekhar467" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/himsheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="himsheda" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/iamhimanshushekhar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamhimanshushekhar13" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/himsheda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="himsheda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
